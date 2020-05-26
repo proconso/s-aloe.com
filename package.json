@@ -1,0 +1,23 @@
+{
+  "name": "s-aloe.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proconso/s-aloe.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/proconso/s-aloe.com/issues"
+  },
+  "homepage": "https://github.com/proconso/s-aloe.com#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
